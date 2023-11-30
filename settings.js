@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['919339619072'] //ur owner number
+global.ownernomer = "919339619072" //ur owner number2
+global.ownername = "꧁☬༺𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘༻☬꧂" //ur owner name
+global.ytname = "No YT Channel" //ur yt chanel name
+global.socialm = "Facebook: https://www.facebook.com/sipra.dey.56863" //ur github or insta name
+global.location = "Nalhati, Birbhum, WB, INDIA" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
-global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.botname = "░▒▓█►─𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝕺𝕿─◄█▓▒░"
+global.ownernumber = '919339619072'
+global.ownername = '꧁☬༺𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘༻☬꧂'
+global.ownerNumber = ["919339619072@s.whatsapp.net"]
+global.ownerweb = "https://github.com/Debashis121212/CheemsBot-MD8/"
+global.websitex = ""
+global.wagc = "https://chat.whatsapp.com/BTvcANxxrbcDyliQLgcvMB"
+global.themeemoji = '📌'
+global.wm = "Debashis WA Bot"
+global.botscript = 'https://github.com/Debashis121212/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "👑 𝕯𝖊𝖇𝖆𝖘𝖍𝖎𝖘 👑\n\n"
+global.creator = "919339619072@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
